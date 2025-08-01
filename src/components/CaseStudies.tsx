@@ -19,7 +19,9 @@ const CaseStudies = () => {
       title: "Navjeevan",
       category: "Rural Healthcare",
       description:
-        "Navjeevan is a mobile healthcare lab concept designed to promote awareness around nutrition and basic health education. I co-developed the Navjeevan Ground Report alongside a student from JNTU-H during field research in a remote village in Odisha. The report is currently being prepared for presentation to the state government as a proposal for potential implementation.",
+        "Navjeevan is a mobile healthcare lab concept designed to promote awareness around nutrition and basic health education.
+        I co-developed the Navjeevan Ground Report alongside a student from JNTU-H during field research in a remote village in Odisha. 
+        The report is currently being prepared for presentation to the state government as a proposal for potential implementation.",
     },
     {
       id: 2,
